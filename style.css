@@ -1,15 +1,22 @@
 
 h1 {
+font-weight: bold  
     color: #7289da;
     background-color: 	#282b30;
 }
 
 body {
+  text-align: center;
+  line-height: 0,5;
     font-size: 16px;
   color: #7289da;
    background-color: #424549;
+  font-family: "helvetica"
 }
 p {
     color: #c7c7c7;
 }
-
+h2 {
+    color: #c7c7c7;
+text-decoration: line-through 
+}
