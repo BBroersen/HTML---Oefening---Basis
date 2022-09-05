@@ -6,17 +6,10 @@ h1 {
 
 body {
     font-size: 16px;
+  color: #7289da;
    background-color: #424549;
 }
 p {
-    color: #7289da;
+    color: #c7c7c7;
 }
-h2 {
-    color: #7289da;
-}
-h3 {
-    color: #7289da;
-}
-h4 {
-    color: #7289da;
-}
+
