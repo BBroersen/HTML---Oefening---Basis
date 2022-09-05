@@ -1,4 +1,22 @@
-html, body {
-  height: 100%;
-  width: 100%;
+
+h1 {
+    color: #7289da;
+    background-color: 	#282b30;
+}
+
+body {
+    font-size: 16px;
+   background-color: #424549;
+}
+p {
+    color: #7289da;
+}
+h2 {
+    color: #7289da;
+}
+h3 {
+    color: #7289da;
+}
+h4 {
+    color: #7289da;
 }
