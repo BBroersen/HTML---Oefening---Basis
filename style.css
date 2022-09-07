@@ -6,12 +6,12 @@ font-weight: bold
 }
 
 body {
+  font-family: Arial;
   text-align: center;
   line-height: 0,5;
     font-size: 16px;
   color: #7289da;
    background-color: #424549;
-  font-family: "helvetica"
 }
 p {
     color: #c7c7c7;
@@ -19,4 +19,17 @@ p {
 h2 {
     color: #c7c7c7;
 text-decoration: line-through 
+  
+}
+h6 {
+  font-weight: bolder900
+}
+h3 {
+      font-size: 1.5em;
+    background-color: #919191;
+    margin: 20px;
+    padding: 40px;
+      border-style: dashed;
+    border-width: 3px;
+    border-color: white;
 }
